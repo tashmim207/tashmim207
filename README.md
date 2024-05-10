@@ -1,12 +1,26 @@
-- 👋 Hi, I’m @tashmim207
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Full-Stack Project
 
-<!---
-tashmim207/tashmim207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Full-Stack Icon](https://img.icons8.com/color/96/000000/fullstack.png)
+
+Welcome to our Full-Stack Project repository! This project demonstrates the integration of Python and HTML to build a full-stack web application.
+
+## Overview
+
+This project combines the power of Python for backend development and HTML for frontend user interface. It includes:
+
+- Backend: Python Flask framework
+- Frontend: HTML, CSS, and JavaScript
+
+## Features
+
+- Simple and intuitive user interface.
+- CRUD operations (Create, Read, Update, Delete) for managing data.
+- Secure authentication system.
+- Responsive design for various screen sizes.
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/full-stack-project.git
